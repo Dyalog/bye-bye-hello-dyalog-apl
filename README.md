@@ -1,5 +1,5 @@
 # Bye Bye Hello World
-These are the Dyalog APL shell scripts developed in the [Bye Bye Hello Dyalog APL video](https://youtu.be/9IFx1ZT7XW8) which is a reaction to proglangcast's [Bye Bye Hello APL](https://www.youtube.com/watch?v=0Xdzez9L5iM).
+These are the Dyalog APL shell scripts developed in the [Bye Bye Hello Dyalog APL video](https://www.youtube.com/watch?v=0k_lfwprF2M) which is a reaction to proglangcast's [Bye Bye Hello APL](https://www.youtube.com/watch?v=0Xdzez9L5iM).
 
 Each of the following directories has a `Run.apls` script:
 
