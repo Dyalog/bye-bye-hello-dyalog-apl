@@ -9,3 +9,5 @@ Each of the following directories has a `Run.apls` script:
 | [balanced-tradfns](balanced-tradfns/Run.apls) | Tradfns using Compress and an inline dfn instead of small control structures
 | [dfns](dfns/Run.apls) | Dfns using tail recursion instead of a while loop
 | [one-liner](one-liner/Run.apls) | A merger of the dfns into a single line of code — don't do this for production code!
+
+proglangcast's source code is [available on GitLab](https://gitlab.com/proglangbase/bbhw).
